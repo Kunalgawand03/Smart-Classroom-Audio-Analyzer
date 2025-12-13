@@ -3,3 +3,24 @@ An AI‑powered classroom analytics tool that converts audio lessons into insigh
 
 
 📌 Smart Classroom Audio Analyzer
+
+A Python‑based tool that takes a classroom audio recording and automatically analyzes:
+
+🔊 Full audio transcription (Whisper AI)
+
+🗣️ Words Per Minute
+
+❓ Questions asked
+
+🙂 Sentiment analysis
+
+👀 Student focus score
+
+🎯 Interaction metrics (doubts, assignments, hand‑raises)
+
+📊 Teacher performance metrics
+
+📥 Google Sheets integration
+
+🗂️ Auto‑saving results to CSV
+
