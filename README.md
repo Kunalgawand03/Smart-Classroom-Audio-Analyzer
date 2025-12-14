@@ -19,8 +19,5 @@ A Python‑based tool that takes a classroom audio recording and automatically a
 🎯 Interaction metrics (doubts, assignments, hand‑raises)
 
 📊 Teacher performance metrics
-
 📥 Google Sheets integration
-
 🗂️ Auto‑saving results to CSV
-
