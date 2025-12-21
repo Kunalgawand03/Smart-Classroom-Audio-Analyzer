@@ -1,0 +1,723 @@
+timestamp,audio_file,words_per_minute,questions,sentiment,student_focus,active_events,retention_score,engagement_score,curiosity_index,teacher_impact_score,full_transcript
+2025-12-08 17:48:03,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52," Welcome to Yes Kid educational channel. Good morning class. Good morning, ma'am. Take your seats. Thank you, ma'am. Keep quiet, everyone. I am going to take your attendance now. Roll number one. Yes, ma'am. Two. Yes, ma'am. Three. Three. Why is she absent today? She is on leave, ma'am. She has gone to her uncle's home. Oh, and why were you absent yesterday, Jessica? Ma'am, yesterday I had a fever. Oh, how are you feeling now? I am feeling better now, ma'am. Okay, students. Let me check your homework first. Sorry, ma'am. I couldn't complete my homework because I was sick. It's alright, and all the other students, submit your homework now. And don't worry, Jessica, complete it by tomorrow. Okay, ma'am. Now, let's start our class. Everyone take out your science books. Ma'am, which chapter? Chapter number three, page numbers 21. Ma'am, this chapter has been already completed. I know today we will revise the chapter. Will we read the full chapter, ma'am? No, memorize all the definitions for today. Okay, ma'am. Why are you all shouting? Don't talk to each other. Ma'am, may I drink water? Yes, of course. Ma'am, I have memorized all the definitions. Okay, take out your notebooks, everyone. Will you take a test, ma'am? No, it's not a test. It's just for your revision. But make sure to study this chapter thoroughly. I might take a surprise test on the next week. Ma'am, we need the syllabus for the exam as well. Yes, yes, you will get your syllabus within this week. And now, everyone solve these questions in your notebook. I have completed, ma'am. Alright, let me check. Very good, Jessica, but there are some spelling mistakes. Try to focus on your spellings as well. Okay, ma'am, I will try. Okay, students note down your homework. Take out page 23. Question number 2, 3 and 7. This is your homework. Ma'am, when will we submit this homework? Submit it on the next week. Okay, class, the bell has already rung. Keep quiet and sit down at your places. Do not make any noise. Wait for the next teacher. And remember, revise this chapter thoroughly. Thank you, class. Thanks for watching. For more educational videos, please find the link given in the description box. And subscribe to a channel."
+2025-12-19 20:50:41,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52," Welcome to Yes Kid educational channel. Good morning class. Good morning, ma'am. Take your seats. Thank you, ma'am. Keep quiet, everyone. I am going to take your attendance now. Roll number one. Yes, ma'am. Two. Yes, ma'am. Three. Three. Why is she absent today? She is on leave, ma'am. She has gone to her uncle's home. Oh, and why were you absent yesterday, Jessica? Ma'am, yesterday I had a fever. Oh, how are you feeling now? I am feeling better now, ma'am. Okay, students. Let me check your homework first. Sorry, ma'am. I couldn't complete my homework because I was sick. It's alright, and all the other students, submit your homework now. And don't worry, Jessica, complete it by tomorrow. Okay, ma'am. Now, let's start our class. Everyone take out your science books. Ma'am, which chapter? Chapter number three, page numbers 21. Ma'am, this chapter has been already completed. I know today we will revise the chapter. Will we read the full chapter, ma'am? No, memorize all the definitions for today. Okay, ma'am. Why are you all shouting? Don't talk to each other. Ma'am, may I drink water? Yes, of course. Ma'am, I have memorized all the definitions. Okay, take out your notebooks, everyone. Will you take a test, ma'am? No, it's not a test. It's just for your revision. But make sure to study this chapter thoroughly. I might take a surprise test on the next week. Ma'am, we need the syllabus for the exam as well. Yes, yes, you will get your syllabus within this week. And now, everyone solve these questions in your notebook. I have completed, ma'am. Alright, let me check. Very good, Jessica, but there are some spelling mistakes. Try to focus on your spellings as well. Okay, ma'am, I will try. Okay, students note down your homework. Take out page 23. Question number 2, 3 and 7. This is your homework. Ma'am, when will we submit this homework? Submit it on the next week. Okay, class, the bell has already rung. Keep quiet and sit down at your places. Do not make any noise. Wait for the next teacher. And remember, revise this chapter thoroughly. Thank you, class. Thanks for watching. For more educational videos, please find the link given in the description box. And subscribe to a channel."
+2025-12-19 20:54:30,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52,"[UNKNOWN]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[UNKNOWN]: Good morning, ma'am.
+[UNKNOWN]: Take your seats.
+[UNKNOWN]: Thank you, ma'am.
+[UNKNOWN]: Keep quiet, everyone.
+[UNKNOWN]: I am going to take your attendance now.
+[UNKNOWN]: Roll number one.
+[UNKNOWN]: Yes, ma'am.
+[UNKNOWN]: Two.
+[UNKNOWN]: Yes, ma'am.
+[UNKNOWN]: Three.
+[UNKNOWN]: Three.
+[STUDENT]: Why is she absent today?
+[UNKNOWN]: She is on leave, ma'am.
+[UNKNOWN]: She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[UNKNOWN]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students.
+[TEACHER]: Let me check your homework first.
+[UNKNOWN]: Sorry, ma'am.
+[TEACHER]: I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[UNKNOWN]: And don't worry, Jessica, complete it by tomorrow.
+[UNKNOWN]: Okay, ma'am.
+[TEACHER]: Now, let's start our class.
+[UNKNOWN]: Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[UNKNOWN]: No, memorize all the definitions for today.
+[UNKNOWN]: Okay, ma'am.
+[STUDENT]: Why are you all shouting?
+[UNKNOWN]: Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[UNKNOWN]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[UNKNOWN]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test.
+[UNKNOWN]: It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[UNKNOWN]: Yes, yes, you will get your syllabus within this week.
+[UNKNOWN]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[UNKNOWN]: Alright, let me check.
+[UNKNOWN]: Very good, Jessica, but there are some spelling mistakes.
+[UNKNOWN]: Try to focus on your spellings as well.
+[UNKNOWN]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[UNKNOWN]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[UNKNOWN]: Keep quiet and sit down at your places.
+[UNKNOWN]: Do not make any noise.
+[UNKNOWN]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[UNKNOWN]: Thanks for watching.
+[UNKNOWN]: For more educational videos, please find the link given in the description box.
+[UNKNOWN]: And subscribe to a channel."
+2025-12-20 17:17:03,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52,"[STUDENT]: Welcome to Yes Kid educational channel.
+[STUDENT]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[STUDENT]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[STUDENT]: Keep quiet, everyone. I am going to take your attendance now.
+[STUDENT]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[STUDENT]: Two.
+[STUDENT]: Yes, ma'am.
+[STUDENT]: Three.
+[STUDENT]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[STUDENT]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[STUDENT]: It's alright, and all the other students, submit your homework now.
+[STUDENT]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[STUDENT]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[STUDENT]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[STUDENT]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[STUDENT]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[STUDENT]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[STUDENT]: No, it's not a test. It's just for your revision.
+[STUDENT]: But make sure to study this chapter thoroughly.
+[STUDENT]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[STUDENT]: Yes, yes, you will get your syllabus within this week.
+[STUDENT]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[STUDENT]: Alright, let me check.
+[STUDENT]: Very good, Jessica, but there are some spelling mistakes.
+[STUDENT]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[STUDENT]: Okay, students note down your homework.
+[STUDENT]: Take out page 23.
+[STUDENT]: Question number 2, 3 and 7.
+[STUDENT]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[STUDENT]: Submit it on the next week.
+[STUDENT]: Okay, class, the bell has already rung.
+[STUDENT]: Keep quiet and sit down at your places.
+[STUDENT]: Do not make any noise.
+[STUDENT]: Wait for the next teacher.
+[STUDENT]: And remember, revise this chapter thoroughly.
+[STUDENT]: Thank you, class.
+[STUDENT]: Thanks for watching.
+[STUDENT]: For more educational videos, please find the link given in the description box.
+[STUDENT]: And subscribe to a channel."
+2025-12-20 17:54:41,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52,"[STUDENT]: Welcome to Yes Kid educational channel.
+[STUDENT]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[STUDENT]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[STUDENT]: Keep quiet, everyone. I am going to take your attendance now.
+[STUDENT]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[STUDENT]: Two.
+[STUDENT]: Yes, ma'am.
+[STUDENT]: Three.
+[STUDENT]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[STUDENT]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[STUDENT]: It's alright, and all the other students, submit your homework now.
+[STUDENT]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[STUDENT]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[STUDENT]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[STUDENT]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[STUDENT]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[STUDENT]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[STUDENT]: No, it's not a test. It's just for your revision.
+[STUDENT]: But make sure to study this chapter thoroughly.
+[STUDENT]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[STUDENT]: Yes, yes, you will get your syllabus within this week.
+[STUDENT]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[STUDENT]: Alright, let me check.
+[STUDENT]: Very good, Jessica, but there are some spelling mistakes.
+[STUDENT]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[STUDENT]: Okay, students note down your homework.
+[STUDENT]: Take out page 23.
+[STUDENT]: Question number 2, 3 and 7.
+[STUDENT]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[STUDENT]: Submit it on the next week.
+[STUDENT]: Okay, class, the bell has already rung.
+[STUDENT]: Keep quiet and sit down at your places.
+[STUDENT]: Do not make any noise.
+[STUDENT]: Wait for the next teacher.
+[STUDENT]: And remember, revise this chapter thoroughly.
+[STUDENT]: Thank you, class.
+[STUDENT]: Thanks for watching.
+[STUDENT]: For more educational videos, please find the link given in the description box.
+[STUDENT]: And subscribe to a channel."
+2025-12-20 17:55:56,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52,"[STUDENT]: Welcome to Yes Kid educational channel.
+[STUDENT]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[STUDENT]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[STUDENT]: Keep quiet, everyone. I am going to take your attendance now.
+[STUDENT]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[STUDENT]: Two.
+[STUDENT]: Yes, ma'am.
+[STUDENT]: Three.
+[STUDENT]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[STUDENT]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[STUDENT]: It's alright, and all the other students, submit your homework now.
+[STUDENT]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[STUDENT]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[STUDENT]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[STUDENT]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[STUDENT]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[STUDENT]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[STUDENT]: No, it's not a test. It's just for your revision.
+[STUDENT]: But make sure to study this chapter thoroughly.
+[STUDENT]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[STUDENT]: Yes, yes, you will get your syllabus within this week.
+[STUDENT]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[STUDENT]: Alright, let me check.
+[STUDENT]: Very good, Jessica, but there are some spelling mistakes.
+[STUDENT]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[STUDENT]: Okay, students note down your homework.
+[STUDENT]: Take out page 23.
+[STUDENT]: Question number 2, 3 and 7.
+[STUDENT]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[STUDENT]: Submit it on the next week.
+[STUDENT]: Okay, class, the bell has already rung.
+[STUDENT]: Keep quiet and sit down at your places.
+[STUDENT]: Do not make any noise.
+[STUDENT]: Wait for the next teacher.
+[STUDENT]: And remember, revise this chapter thoroughly.
+[STUDENT]: Thank you, class.
+[STUDENT]: Thanks for watching.
+[STUDENT]: For more educational videos, please find the link given in the description box.
+[STUDENT]: And subscribe to a channel."
+2025-12-20 18:06:57,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[TEACHER]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[TEACHER]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone.
+[TEACHER]: I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[TEACHER]: Yes, ma'am.
+[TEACHER]: Two.
+[TEACHER]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[TEACHER]: She is on leave, ma'am.
+[TEACHER]: She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[TEACHER]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students.
+[TEACHER]: Let me check your homework first.
+[TEACHER]: Sorry, ma'am.
+[TEACHER]: I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[TEACHER]: Okay, ma'am.
+[TEACHER]: Now, let's start our class.
+[TEACHER]: Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[TEACHER]: Okay, ma'am.
+[STUDENT]: Why are you all shouting?
+[TEACHER]: Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test.
+[TEACHER]: It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[TEACHER]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel."
+2025-12-20 23:28:31,test.wav,83.4,9,POSITIVE,19,23,90,15,16,52," Welcome to Yes Kid educational channel. Good morning class. Good morning, ma'am. Take your seats. Thank you, ma'am. Keep quiet, everyone. I am going to take your attendance now. Roll number one. Yes, ma'am. Two. Yes, ma'am. Three. Three. Why is she absent today? She is on leave, ma'am. She has gone to her uncle's home. Oh, and why were you absent yesterday, Jessica? Ma'am, yesterday I had a fever. Oh, how are you feeling now? I am feeling better now, ma'am. Okay, students. Let me check your homework first. Sorry, ma'am. I couldn't complete my homework because I was sick. It's alright, and all the other students, submit your homework now. And don't worry, Jessica, complete it by tomorrow. Okay, ma'am. Now, let's start our class. Everyone take out your science books. Ma'am, which chapter? Chapter number three, page numbers 21. Ma'am, this chapter has been already completed. I know today we will revise the chapter. Will we read the full chapter, ma'am? No, memorize all the definitions for today. Okay, ma'am. Why are you all shouting? Don't talk to each other. Ma'am, may I drink water? Yes, of course. Ma'am, I have memorized all the definitions. Okay, take out your notebooks, everyone. Will you take a test, ma'am? No, it's not a test. It's just for your revision. But make sure to study this chapter thoroughly. I might take a surprise test on the next week. Ma'am, we need the syllabus for the exam as well. Yes, yes, you will get your syllabus within this week. And now, everyone solve these questions in your notebook. I have completed, ma'am. Alright, let me check. Very good, Jessica, but there are some spelling mistakes. Try to focus on your spellings as well. Okay, ma'am, I will try. Okay, students note down your homework. Take out page 23. Question number 2, 3 and 7. This is your homework. Ma'am, when will we submit this homework? Submit it on the next week. Okay, class, the bell has already rung. Keep quiet and sit down at your places. Do not make any noise. Wait for the next teacher. And remember, revise this chapter thoroughly. Thank you, class. Thanks for watching. For more educational videos, please find the link given in the description box. And subscribe to a channel."
+2025-12-21 00:01:28,test.wav,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[TEACHER]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[TEACHER]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone.
+[TEACHER]: I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[TEACHER]: Yes, ma'am.
+[TEACHER]: Two.
+[TEACHER]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[TEACHER]: She is on leave, ma'am.
+[TEACHER]: She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[TEACHER]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students.
+[TEACHER]: Let me check your homework first.
+[TEACHER]: Sorry, ma'am.
+[TEACHER]: I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[TEACHER]: Okay, ma'am.
+[TEACHER]: Now, let's start our class.
+[TEACHER]: Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[TEACHER]: Okay, ma'am.
+[STUDENT]: Why are you all shouting?
+[TEACHER]: Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test.
+[TEACHER]: It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[TEACHER]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel."
+2025-12-21 00:57:15,test.wav,83.4,9,POSITIVE,19,23,54,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone. I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Two.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[TEACHER]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test. It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel.
+"
+2025-12-21 11:00:59,test.wav,83.4,9,POSITIVE,19,23,54,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone. I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Two.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[TEACHER]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test. It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel.
+"
+2025-12-21 11:13:16,test.wav,83.4,9,POSITIVE,19,23,54,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone. I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Two.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[TEACHER]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test. It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel.
+"
+2025-12-21 11:29:58,test.wav,83.4,9,POSITIVE,19,23,54,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone. I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Two.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[TEACHER]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test. It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel.
+"
+2025-12-21 11:58:13,test.wav,83.4,9,POSITIVE,19,23,54.2,"[TEACHER]: Welcome to Yes Kid educational channel.
+[TEACHER]: Good morning class.
+[STUDENT]: Good morning, ma'am.
+[TEACHER]: Take your seats.
+[STUDENT]: Thank you, ma'am.
+[TEACHER]: Keep quiet, everyone. I am going to take your attendance now.
+[TEACHER]: Roll number one.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Two.
+[STUDENT]: Yes, ma'am.
+[TEACHER]: Three.
+[TEACHER]: Three.
+[STUDENT]: Why is she absent today?
+[STUDENT]: She is on leave, ma'am. She has gone to her uncle's home.
+[STUDENT]: Oh, and why were you absent yesterday, Jessica?
+[STUDENT]: Ma'am, yesterday I had a fever.
+[STUDENT]: Oh, how are you feeling now?
+[STUDENT]: I am feeling better now, ma'am.
+[TEACHER]: Okay, students. Let me check your homework first.
+[STUDENT]: Sorry, ma'am. I couldn't complete my homework because I was sick.
+[TEACHER]: It's alright, and all the other students, submit your homework now.
+[TEACHER]: And don't worry, Jessica, complete it by tomorrow.
+[STUDENT]: Okay, ma'am.
+[TEACHER]: Now, let's start our class. Everyone take out your science books.
+[STUDENT]: Ma'am, which chapter?
+[TEACHER]: Chapter number three, page numbers 21.
+[STUDENT]: Ma'am, this chapter has been already completed.
+[TEACHER]: I know today we will revise the chapter.
+[STUDENT]: Will we read the full chapter, ma'am?
+[TEACHER]: No, memorize all the definitions for today.
+[STUDENT]: Okay, ma'am.
+[STUDENT]: Why are you all shouting? Don't talk to each other.
+[STUDENT]: Ma'am, may I drink water?
+[TEACHER]: Yes, of course.
+[STUDENT]: Ma'am, I have memorized all the definitions.
+[TEACHER]: Okay, take out your notebooks, everyone.
+[STUDENT]: Will you take a test, ma'am?
+[TEACHER]: No, it's not a test. It's just for your revision.
+[TEACHER]: But make sure to study this chapter thoroughly.
+[TEACHER]: I might take a surprise test on the next week.
+[STUDENT]: Ma'am, we need the syllabus for the exam as well.
+[TEACHER]: Yes, yes, you will get your syllabus within this week.
+[TEACHER]: And now, everyone solve these questions in your notebook.
+[STUDENT]: I have completed, ma'am.
+[TEACHER]: Alright, let me check.
+[TEACHER]: Very good, Jessica, but there are some spelling mistakes.
+[TEACHER]: Try to focus on your spellings as well.
+[STUDENT]: Okay, ma'am, I will try.
+[TEACHER]: Okay, students note down your homework.
+[TEACHER]: Take out page 23.
+[TEACHER]: Question number 2, 3 and 7.
+[TEACHER]: This is your homework.
+[STUDENT]: Ma'am, when will we submit this homework?
+[TEACHER]: Submit it on the next week.
+[TEACHER]: Okay, class, the bell has already rung.
+[TEACHER]: Keep quiet and sit down at your places.
+[TEACHER]: Do not make any noise.
+[TEACHER]: Wait for the next teacher.
+[TEACHER]: And remember, revise this chapter thoroughly.
+[TEACHER]: Thank you, class.
+[TEACHER]: Thanks for watching.
+[TEACHER]: For more educational videos, please find the link given in the description box.
+[TEACHER]: And subscribe to a channel.
+"
